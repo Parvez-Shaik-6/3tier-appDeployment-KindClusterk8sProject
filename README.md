@@ -94,7 +94,7 @@ docker --version
 
 Build the images locally if you dont have existing one in dockerhub and use it in the maifests or docker-compose.yml
 
-Clone the repo and  then **Cd to k8s folder containing yaml manifests**
+Clone the repo and **cd to full-stack_chatApp**  then **cd to k8s folder containing yaml manifests**
 
 ## 🚢 Deployment Using Kubernetes (Kind)
 
